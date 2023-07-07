@@ -1,4 +1,4 @@
----
+<h1>HTML</h1>
 title: "HTML: HyperText Markup Language"
 slug: Web/HTML
 page-type: landing-page
